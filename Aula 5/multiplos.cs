@@ -1,6 +1,5 @@
 using System;
-
-class Program {
+class Helloworld {
     static void Main() {
         Console.WriteLine("Digite o primeiro número:");
         int num1 = int.Parse(Console.ReadLine());
