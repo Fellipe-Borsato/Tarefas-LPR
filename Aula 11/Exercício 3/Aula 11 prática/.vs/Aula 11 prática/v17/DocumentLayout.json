@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alunos\\Desktop\\Aula 11 pr\u00E1tica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15591FA4-B116-4157-8C11-3FBD8249CA8D}|Aula 11 pr\u00E1tica.csproj|c:\\users\\alunos\\desktop\\aula 11 pr\u00E1tica\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15591FA4-B116-4157-8C11-3FBD8249CA8D}|Aula 11 pr\u00E1tica.csproj|solutionrelative:alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15591FA4-B116-4157-8C11-3FBD8249CA8D}|Aula 11 pr\u00E1tica.csproj|c:\\users\\alunos\\desktop\\aula 11 pr\u00E1tica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15591FA4-B116-4157-8C11-3FBD8249CA8D}|Aula 11 pr\u00E1tica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alunos.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Desktop\\Aula 11 pr\u00E1tica\\Alunos.cs",
+              "RelativeDocumentMoniker": "Alunos.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Desktop\\Aula 11 pr\u00E1tica\\Alunos.cs",
+              "RelativeToolTip": "Alunos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:31:36.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Desktop\\Aula 11 pr\u00E1tica\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Desktop\\Aula 11 pr\u00E1tica\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:40:16.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

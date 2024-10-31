@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\Aula 11 prática\bin\Debug\net8.0\Aula 11 prática.exe
+C:\Users\Alunos\Desktop\Aula 11 prática\bin\Debug\net8.0\Aula 11 prática.deps.json
+C:\Users\Alunos\Desktop\Aula 11 prática\bin\Debug\net8.0\Aula 11 prática.runtimeconfig.json
+C:\Users\Alunos\Desktop\Aula 11 prática\bin\Debug\net8.0\Aula 11 prática.dll
+C:\Users\Alunos\Desktop\Aula 11 prática\bin\Debug\net8.0\Aula 11 prática.pdb
+C:\Users\Alunos\Desktop\Aula 11 prática\obj\Debug\net8.0\Aula 11 prática.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Aula 11 prática\obj\Debug\net8.0\Aula 11 prática.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Aula 11 prática\obj\Debug\net8.0\Aula 11 prática.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Aula 11 prática\obj\Debug\net8.0\Aula 11 prática.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Aula 11 prática\obj\Debug\net8.0\Aula 11 prática.dll
+C:\Users\Alunos\Desktop\Aula 11 prática\obj\Debug\net8.0\refint\Aula 11 prática.dll
+C:\Users\Alunos\Desktop\Aula 11 prática\obj\Debug\net8.0\Aula 11 prática.pdb
+C:\Users\Alunos\Desktop\Aula 11 prática\obj\Debug\net8.0\Aula 11 prática.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Aula 11 prática\obj\Debug\net8.0\ref\Aula 11 prática.dll
